@@ -1,0 +1,12 @@
+ <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test-Suite" >
+    <test name="ToolsQA" >
+        <classes>
+            <class name="abTest.ABTest" />
+            <class name="addRemoveElementTest.AddRemoveElementTest" />
+            <class name="basicAutoTest.BasicAuthTest" />
+            <class name="challengingDomTest.ChallengingDomTest" />
+            <class name="finfBrokenImagesTest.BrokenImagesTest" />
+        </classes>
+    </test>
+</suite>

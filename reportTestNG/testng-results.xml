@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-18T15:25:00 CDT" name="Test-Suite" finished-at="2020-08-18T15:25:50 CDT" duration-ms="50500">
+    <groups>
+    </groups>
+    <test started-at="2020-08-18T15:25:00 CDT" name="ToolsQA" finished-at="2020-08-18T15:25:50 CDT" duration-ms="50500">
+      <class name="challengingDomTest.ChallengingDomTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:challengingDomTest.ChallengingDomTest@6c9f5c0d]" started-at="2020-08-18T15:25:25 CDT" name="setUp" finished-at="2020-08-18T15:25:32 CDT" duration-ms="6556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:challengingDomTest.ChallengingDomTest@6c9f5c0d]" started-at="2020-08-18T15:25:32 CDT" name="goHome" finished-at="2020-08-18T15:25:32 CDT" duration-ms="415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="challengingDomTest_clickBottomButton()[pri:0, instance:challengingDomTest.ChallengingDomTest@6c9f5c0d]" started-at="2020-08-18T15:25:32 CDT" name="challengingDomTest_clickBottomButton" finished-at="2020-08-18T15:25:33 CDT" duration-ms="779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- challengingDomTest_clickBottomButton -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:challengingDomTest.ChallengingDomTest@6c9f5c0d]" started-at="2020-08-18T15:25:33 CDT" name="goHome" finished-at="2020-08-18T15:25:33 CDT" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="challengingDomTest_clickMiddleButton()[pri:0, instance:challengingDomTest.ChallengingDomTest@6c9f5c0d]" started-at="2020-08-18T15:25:33 CDT" name="challengingDomTest_clickMiddleButton" finished-at="2020-08-18T15:25:34 CDT" duration-ms="811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- challengingDomTest_clickMiddleButton -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:challengingDomTest.ChallengingDomTest@6c9f5c0d]" started-at="2020-08-18T15:25:34 CDT" name="goHome" finished-at="2020-08-18T15:25:34 CDT" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="challengingDomTest_clickTopButton()[pri:0, instance:challengingDomTest.ChallengingDomTest@6c9f5c0d]" started-at="2020-08-18T15:25:34 CDT" name="challengingDomTest_clickTopButton" finished-at="2020-08-18T15:25:36 CDT" duration-ms="1566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- challengingDomTest_clickTopButton -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:challengingDomTest.ChallengingDomTest@6c9f5c0d]" started-at="2020-08-18T15:25:36 CDT" name="goHome" finished-at="2020-08-18T15:25:36 CDT" duration-ms="402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="challengingDomTest_findCanvas()[pri:0, instance:challengingDomTest.ChallengingDomTest@6c9f5c0d]" started-at="2020-08-18T15:25:36 CDT" name="challengingDomTest_findCanvas" finished-at="2020-08-18T15:25:37 CDT" duration-ms="599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- challengingDomTest_findCanvas -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:challengingDomTest.ChallengingDomTest@6c9f5c0d]" started-at="2020-08-18T15:25:37 CDT" name="goHome" finished-at="2020-08-18T15:25:37 CDT" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="challengingDomTest_getDolor4()[pri:0, instance:challengingDomTest.ChallengingDomTest@6c9f5c0d]" started-at="2020-08-18T15:25:37 CDT" name="challengingDomTest_getDolor4" finished-at="2020-08-18T15:25:38 CDT" duration-ms="417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- challengingDomTest_getDolor4 -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:challengingDomTest.ChallengingDomTest@6c9f5c0d]" started-at="2020-08-18T15:25:38 CDT" name="goHome" finished-at="2020-08-18T15:25:38 CDT" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="challengingDomTest_getDolor5()[pri:0, instance:challengingDomTest.ChallengingDomTest@6c9f5c0d]" started-at="2020-08-18T15:25:38 CDT" name="challengingDomTest_getDolor5" finished-at="2020-08-18T15:25:38 CDT" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- challengingDomTest_getDolor5 -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:challengingDomTest.ChallengingDomTest@6c9f5c0d]" started-at="2020-08-18T15:25:38 CDT" name="goHome" finished-at="2020-08-18T15:25:38 CDT" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="challengingDomTest_getLorem1()[pri:0, instance:challengingDomTest.ChallengingDomTest@6c9f5c0d]" started-at="2020-08-18T15:25:38 CDT" name="challengingDomTest_getLorem1" finished-at="2020-08-18T15:25:40 CDT" duration-ms="1807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- challengingDomTest_getLorem1 -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:challengingDomTest.ChallengingDomTest@6c9f5c0d]" started-at="2020-08-18T15:25:40 CDT" name="goHome" finished-at="2020-08-18T15:25:40 CDT" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="challengingDomTest_getLorem2()[pri:0, instance:challengingDomTest.ChallengingDomTest@6c9f5c0d]" started-at="2020-08-18T15:25:40 CDT" name="challengingDomTest_getLorem2" finished-at="2020-08-18T15:25:41 CDT" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- challengingDomTest_getLorem2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:challengingDomTest.ChallengingDomTest@6c9f5c0d]" started-at="2020-08-18T15:25:41 CDT" name="tearDown" finished-at="2020-08-18T15:25:41 CDT" duration-ms="646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- challengingDomTest.ChallengingDomTest -->
+      <class name="basicAutoTest.BasicAuthTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:basicAutoTest.BasicAuthTest@17695df3]" started-at="2020-08-18T15:25:17 CDT" name="setUp" finished-at="2020-08-18T15:25:24 CDT" duration-ms="6990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:basicAutoTest.BasicAuthTest@17695df3]" started-at="2020-08-18T15:25:24 CDT" name="goHome" finished-at="2020-08-18T15:25:24 CDT" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="testBasicAuth()[pri:0, instance:basicAutoTest.BasicAuthTest@17695df3]" started-at="2020-08-18T15:25:24 CDT" name="testBasicAuth" finished-at="2020-08-18T15:25:25 CDT" duration-ms="604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBasicAuth -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:basicAutoTest.BasicAuthTest@17695df3]" started-at="2020-08-18T15:25:25 CDT" name="tearDown" finished-at="2020-08-18T15:25:25 CDT" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- basicAutoTest.BasicAuthTest -->
+      <class name="finfBrokenImagesTest.BrokenImagesTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:finfBrokenImagesTest.BrokenImagesTest@de3a06f]" started-at="2020-08-18T15:25:41 CDT" name="setUp" finished-at="2020-08-18T15:25:49 CDT" duration-ms="7210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:finfBrokenImagesTest.BrokenImagesTest@de3a06f]" started-at="2020-08-18T15:25:49 CDT" name="goHome" finished-at="2020-08-18T15:25:49 CDT" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="testBrokenImages()[pri:0, instance:finfBrokenImagesTest.BrokenImagesTest@de3a06f]" started-at="2020-08-18T15:25:49 CDT" name="testBrokenImages" finished-at="2020-08-18T15:25:50 CDT" duration-ms="953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBrokenImages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:finfBrokenImagesTest.BrokenImagesTest@de3a06f]" started-at="2020-08-18T15:25:50 CDT" name="tearDown" finished-at="2020-08-18T15:25:50 CDT" duration-ms="679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- finfBrokenImagesTest.BrokenImagesTest -->
+      <class name="addRemoveElementTest.AddRemoveElementTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:addRemoveElementTest.AddRemoveElementTest@71d15f18]" started-at="2020-08-18T15:25:09 CDT" name="setUp" finished-at="2020-08-18T15:25:15 CDT" duration-ms="6224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:addRemoveElementTest.AddRemoveElementTest@71d15f18]" started-at="2020-08-18T15:25:15 CDT" name="goHome" finished-at="2020-08-18T15:25:15 CDT" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="testAddRemoveElement()[pri:0, instance:addRemoveElementTest.AddRemoveElementTest@71d15f18]" started-at="2020-08-18T15:25:15 CDT" name="testAddRemoveElement" finished-at="2020-08-18T15:25:16 CDT" duration-ms="822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddRemoveElement -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:addRemoveElementTest.AddRemoveElementTest@71d15f18]" started-at="2020-08-18T15:25:16 CDT" name="tearDown" finished-at="2020-08-18T15:25:17 CDT" duration-ms="866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- addRemoveElementTest.AddRemoveElementTest -->
+      <class name="abTest.ABTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:abTest.ABTest@dbd940d]" started-at="2020-08-18T15:25:00 CDT" name="setUp" finished-at="2020-08-18T15:25:07 CDT" duration-ms="7330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:abTest.ABTest@dbd940d]" started-at="2020-08-18T15:25:07 CDT" name="goHome" finished-at="2020-08-18T15:25:08 CDT" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="testABTest()[pri:0, instance:abTest.ABTest@dbd940d]" started-at="2020-08-18T15:25:08 CDT" name="testABTest" finished-at="2020-08-18T15:25:08 CDT" duration-ms="436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testABTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:abTest.ABTest@dbd940d]" started-at="2020-08-18T15:25:08 CDT" name="tearDown" finished-at="2020-08-18T15:25:09 CDT" duration-ms="657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- abTest.ABTest -->
+    </test> <!-- ToolsQA -->
+  </suite> <!-- Test-Suite -->
+</testng-results>
