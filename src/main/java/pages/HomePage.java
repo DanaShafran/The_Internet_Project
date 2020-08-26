@@ -38,4 +38,9 @@ public class HomePage {
         return new challengingDom(driver);
     }
 
+    public checkBoxes clickCheckBoxesPage(){
+        clickLink("Checkboxes");
+        return new checkBoxes(driver);
+    }
+
 }
