@@ -43,4 +43,9 @@ public class HomePage {
         return new checkBoxes(driver);
     }
 
+    public contextMenu clickContextMenuPage(){
+        clickLink("Context Menu");
+        return new contextMenu(driver);
+    }
+
 }
