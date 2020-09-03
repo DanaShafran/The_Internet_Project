@@ -7,6 +7,10 @@
             <class name="basicAutoTest.BasicAuthTest" />
             <class name="challengingDomTest.ChallengingDomTest" />
             <class name="finfBrokenImagesTest.BrokenImagesTest" />
+            <class name="checkBoxesTest.CheckBoxesTest" />
+            <class name="contextMenuTest.ContextMenuTest" />
+            <class name="digestAuthenticationTest.DigestAuthenticationTest" />
+            <class name="disappearingElementsTest.DisappearingElementsTest" />
         </classes>
     </test>
 </suite>

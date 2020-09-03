@@ -48,4 +48,14 @@ public class HomePage {
         return new contextMenu(driver);
     }
 
+    public digestAuthentication clickDigestAuthenticationPage(){
+        clickLink("Digest Authentication");
+        return new digestAuthentication(driver);
+    }
+
+    public disappearingElements clickDisappearingElementsPage(){
+        clickLink("Disappearing Elements");
+        return new disappearingElements(driver);
+    }
+
 }
