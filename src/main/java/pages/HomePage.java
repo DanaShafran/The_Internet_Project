@@ -18,7 +18,7 @@ public class HomePage {
         return new ABTesting(driver);
     }
 
-    public addRemoveElement clickaddRemoveElementPage(){
+    public addRemoveElement clickAddRemoveElementPage(){
         clickLink("Add/Remove Elements");
         return new addRemoveElement(driver);
     }
@@ -56,6 +56,11 @@ public class HomePage {
     public disappearingElements clickDisappearingElementsPage(){
         clickLink("Disappearing Elements");
         return new disappearingElements(driver);
+    }
+
+    public dragAndDrop clickDragAndDropPage(){
+        clickLink("Drag and Drop");
+        return new dragAndDrop(driver);
     }
 
 }

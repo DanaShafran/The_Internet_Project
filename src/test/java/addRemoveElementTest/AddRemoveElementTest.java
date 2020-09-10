@@ -7,7 +7,7 @@ import static org.testng.Assert.*;
 public class AddRemoveElementTest extends BaseTest {
     @Test
     public void testAddRemoveElement(){
-        var addRemove = homePage.clickaddRemoveElementPage();
+        var addRemove = homePage.clickAddRemoveElementPage();
         int number = 5;
         addRemove.addElement(number);
         addRemove.removeElement(number);
