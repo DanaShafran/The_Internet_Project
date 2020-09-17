@@ -11,6 +11,8 @@
             <class name="contextMenuTest.ContextMenuTest" />
             <class name="digestAuthenticationTest.DigestAuthenticationTest" />
             <class name="disappearingElementsTest.DisappearingElementsTest" />
+            <class name="dragAndDropTest.DragAndDropTest" />
+            <class name="dragAndDropTest.DragAndDropTest" />
         </classes>
     </test>
 </suite>

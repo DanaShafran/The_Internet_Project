@@ -63,4 +63,9 @@ public class HomePage {
         return new dragAndDrop(driver);
     }
 
+    public dropDown clickDropDownPage(){
+        clickLink("Dropdown");
+        return new dropDown(driver);
+    }
+
 }
