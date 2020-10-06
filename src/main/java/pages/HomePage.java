@@ -67,5 +67,9 @@ public class HomePage {
         clickLink("Dropdown");
         return new dropDown(driver);
     }
+    public dynamicContent clickDynamicContent(){
+        clickLink("Dynamic Content");
+        return new dynamicContent(driver);
+    }
 
 }

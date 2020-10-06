@@ -13,6 +13,7 @@
             <class name="disappearingElementsTest.DisappearingElementsTest" />
             <class name="dragAndDropTest.DragAndDropTest" />
             <class name="dragAndDropTest.DragAndDropTest" />
+            <class name="dynamicContentTest.DynamicContentTest" />
         </classes>
     </test>
 </suite>
