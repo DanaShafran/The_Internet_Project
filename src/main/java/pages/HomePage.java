@@ -71,5 +71,9 @@ public class HomePage {
         clickLink("Dynamic Content");
         return new dynamicContent(driver);
     }
+    public dynamicControls clickDynamicControls(){
+        clickLink("Dynamic Controls");
+        return new dynamicControls(driver);
+    }
 
 }
